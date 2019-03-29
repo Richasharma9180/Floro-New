@@ -1,0 +1,3 @@
+
+alert();
+$('#myTable').DataTable();
